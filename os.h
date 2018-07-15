@@ -1,0 +1,1 @@
+int calcul(int a, char operation, int b);
